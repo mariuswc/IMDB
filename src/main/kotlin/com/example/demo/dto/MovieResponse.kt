@@ -1,4 +1,4 @@
-package com.example.demo.response
+package com.example.demo.dto
 
 data class MovieResponse(
     val id: String,
